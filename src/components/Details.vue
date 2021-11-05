@@ -7,7 +7,7 @@ const count = ref(0)
 <template>
   <div class="container"> 
     <div class="topline">
-        <button class="Arrow"> <img src="Arrow.svg" alt="">
+        <button class="Arrow"> <img src="../assets/Arrow.svg" alt="">
         </button>
             <p class="details-heading"> Personal Details</p>
     </div>
