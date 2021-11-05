@@ -1,6 +1,8 @@
 {
   "name": "accu-gym-app",
   "version": "0.0.0",
+  "main": "src/main.js",
+  "homepage": "https://js-doctrine.github.io/accu-gym-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,5 +16,14 @@
     "@vitejs/plugin-vue": "^1.9.3",
     "gh-pages": "^3.2.3",
     "vite": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-doctrine/accu-gym-app.git"
+  },
+  "author": "js-doctrine",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/js-doctrine/accu-gym-app/issues"
   }
 }
